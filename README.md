@@ -8,9 +8,9 @@
 
 ## 📋 Executive Summary
 
-NexaBank, a UK-based fintech lender serving 4,800 customers across four product lines, faces a **12.8% annual churn rate** — translating to **£2.29M in revenue at risk**. This analysis identifies *where* churn is concentrated, *why* it happens, and *what the business should do about it* — including a three-scenario retention simulation with projected ROI.
+NexaBank, a UK-based fintech lender serving 4,800 customers across four product lines, faces a **12.8% annual churn rate**, translating to **£2.29M in revenue at risk**. This analysis identifies *where* churn is concentrated, *why* it happens, and *what the business should do about it*, including a three-scenario retention simulation with projected ROI.
 
-The single most critical finding: **the first 90 days of the customer lifecycle are a revenue sinkhole.** New customers churn at **26.5%** — nearly 6x the rate of tenured customers — and this cohort alone accounts for over half of all revenue loss. Fixing onboarding is not a "nice to have." It is the highest-leverage intervention available to the business.
+The single most critical finding: **the first 90 days of the customer lifecycle are a revenue sinkhole.** New customers churn at **26.5%**nearly 6x the rate of tenured customers and this cohort alone accounts for over half of all revenue loss. Fixing onboarding is not a "nice to have." It is the highest-leverage intervention available to the business.
 
 ---
 
@@ -18,9 +18,9 @@ The single most critical finding: **the first 90 days of the customer lifecycle 
 
 NexaBank's Head of Customer Strategy needs answers to three questions:
 
-1. **Where is churn costing us the most?** — Which customer segments, tenure cohorts, and acquisition channels drive the majority of revenue loss?
-2. **What signals predict churn before it happens?** — Can we identify behavioural patterns (engagement, support contact, payment behaviour) that flag at-risk customers early enough to intervene?
-3. **What should we actually do about it, and what's the ROI?** — If we invest in retention, which strategy delivers the best return per pound spent?
+1. **Where is churn costing us the most?**:Which customer segments, tenure cohorts, and acquisition channels drive the majority of revenue loss?
+2. **What signals predict churn before it happens?**: Can we identify behavioural patterns (engagement, support contact, payment behaviour) that flag at-risk customers early enough to intervene?
+3. **What should we actually do about it, and what's the ROI?**: If we invest in retention, which strategy delivers the best return per pound spent?
 
 This analysis answers all three.
 
@@ -62,7 +62,7 @@ Customers with *both* low engagement and high support contact churn at rates exc
 
 ![Channel Quality](visuals/05_channel_quality.png)
 
-**Paid Ads** delivers the highest volume but also the highest churn rate and lowest average CLV. **Referral** customers are the opposite — lower churn, higher lifetime value, and longer tenure. The cost of acquiring a customer through Paid Ads who churns within 90 days is effectively a sunk cost with no return.
+**Paid Ads** delivers the highest volume but also the highest churn rate and lowest average CLV. **Referral** customers are the opposite: lower churn, higher lifetime value, and longer tenure. The cost of acquiring a customer through Paid Ads who churns within 90 days is effectively a sunk cost with no return.
 
 ---
 
@@ -70,7 +70,7 @@ Customers with *both* low engagement and high support contact churn at rates exc
 
 ![CLV Distribution](visuals/07_clv_distribution.png)
 
-A common assumption is that churned customers are the "bottom of the barrel." The data contradicts this — the CLV distribution of churned customers overlaps significantly with retained customers. This means **the business is losing genuinely valuable customers**, not just trimming low-margin accounts.
+A common assumption is that churned customers are the "bottom of the barrel." The data contradicts this; the CLV distribution of churned customers overlaps significantly with retained customers. This means **the business is losing genuinely valuable customers**, not just trimming low-margin accounts.
 
 ---
 
@@ -159,6 +159,6 @@ The full SQL analysis (`sql/churn_analysis.sql`) includes 5 production-style que
 
 ## 👤 About
 
-Built by **[Your Name]** — aspiring data analyst with a focus on fintech and financial services. This project demonstrates how data analysis translates into business strategy, not just dashboards.
+Built by **Hrituparna Das** — aspiring data analyst with a focus on fintech and financial services. This project demonstrates how data analysis translates into business strategy, not just dashboards.
 
 📫 [Your Email] · 🔗 [LinkedIn] · 💻 [Portfolio]
