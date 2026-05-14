@@ -2,7 +2,7 @@
 
 ### Cohort Analysis · Revenue Attribution · CLV Segmentation · Retention Strategy Simulation
 
-> **"Identified £2.29M in at-risk annual revenue, with 52% of all churn concentrated in customers within their first 90 days — a targeted product-bundling strategy could recover an estimated £3.5M annually at 1,500% ROI."**
+> **"Identified £2.29M in at-risk annual revenue, with 52% of all churn concentrated in customers within their first 90 days  a targeted product-bundling strategy could recover an estimated £3.5M annually at 1,500% ROI."**
 
 ---
 
@@ -14,11 +14,11 @@ The single most critical finding: **the first 90 days of the customer lifecycle 
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 
 NexaBank's Head of Customer Strategy needs answers to three questions:
 
-1. **Where is churn costing us the most?**:Which customer segments, tenure cohorts, and acquisition channels drive the majority of revenue loss?
+1. **Where is churn costing us the most?**: Which customer segments, tenure cohorts, and acquisition channels drive the majority of revenue loss?
 2. **What signals predict churn before it happens?**: Can we identify behavioural patterns (engagement, support contact, payment behaviour) that flag at-risk customers early enough to intervene?
 3. **What should we actually do about it, and what's the ROI?**: If we invest in retention, which strategy delivers the best return per pound spent?
 
