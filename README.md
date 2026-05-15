@@ -10,7 +10,7 @@
 
 NexaBank, a UK-based fintech lender serving 4,800 customers across four product lines, faces a **12.8% annual churn rate**, translating to **£2.29M in revenue at risk**. This analysis identifies *where* churn is concentrated, *why* it happens, and *what the business should do about it*, including a three-scenario retention simulation with projected ROI.
 
-The single most critical finding: **the first 90 days of the customer lifecycle are a revenue sinkhole.** New customers churn at **26.5%**nearly 6x the rate of tenured customers and this cohort alone accounts for over half of all revenue loss. Fixing onboarding is not a "nice to have." It is the highest-leverage intervention available to the business.
+The single most critical finding: **the first 90 days of the customer lifecycle are a revenue sinkhole.** New customers churn at **26.5%, nearly 6x the rate of tenured customers and this cohort alone accounts for over half of all revenue loss. Fixing onboarding is not a "nice to have." It is the highest-leverage intervention available to the business.
 
 ---
 
@@ -161,4 +161,3 @@ The full SQL analysis (`sql/churn_analysis.sql`) includes 5 production-style que
 
 Built by **Hrituparna Das** — aspiring data analyst with a focus on fintech and financial services. This project demonstrates how data analysis translates into business strategy, not just dashboards.
 
-📫 [Your Email] · 🔗 [LinkedIn] · 💻 [Portfolio]
