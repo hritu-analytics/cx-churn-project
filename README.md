@@ -159,5 +159,5 @@ The full SQL analysis (`sql/churn_analysis.sql`) includes 5 production-style que
 
 ## 👤 About
 
-Built by **Hrituparna Das** — aspiring data analyst with a focus on fintech and financial services. This project demonstrates how data analysis translates into business strategy, not just dashboards.
+Built by **Hrituparna Das** aspiring data analyst with a focus on fintech and financial services. This project demonstrates how data analysis translates into business strategy, not just dashboards.
 
